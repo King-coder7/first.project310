@@ -1,0 +1,16 @@
+"""
+Hello World Program
+A friendly greeting program with personality
+"""
+
+def main():
+    # Display a personalized greeting
+    print("=" * 50)
+    print("🌍 Hello World! 🌍")
+    print("=" * 50)
+    print("\nWelcome to my first CSE 310 software project!")
+    print("This is the beginning of my software portfolio journey.")
+    print("\nCreated with ❤️ and Python\n")
+
+if __name__ == "__main__":
+    main()
